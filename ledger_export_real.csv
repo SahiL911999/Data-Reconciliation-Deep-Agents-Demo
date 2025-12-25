@@ -1,0 +1,21 @@
+Date,Description,Debit,Credit,Ref
+2025-01-01,Slack Expense,580.21,0.0,1e5ad96e
+2025-01-03,Uber Expense,523.48,0.0,31b5a7c7
+2025-01-05,Uber Expense,696.63,0.0,a450d750
+2025-01-05,Slack Expense,743.2,0.0,bc4f1f35
+2025-01-06,Uber Expense,680.38,0.0,5403c4a5
+2025-01-06,WeWork Expense,791.47,0.0,7a7780d6
+2025-01-08,Delta Airlines Expense,363.53,0.0,b0f074fe
+2025-01-08,Uber Expense,457.36,0.0,63e3a9b5
+2025-01-09,WeWork Expense,762.88,0.0,e3767af9
+2025-01-10,Client Invoice #1001 (Stripe),0.0,1250.0,INV-1001
+2025-01-12,Google Cloud Expense,155.64,0.0,9024e4b4
+2025-01-15,Charlie Salary,3800.0,0.0,PAYROLL-JAN
+2025-01-15,Bob Salary,4200.0,0.0,PAYROLL-JAN
+2025-01-15,Alice Salary,4500.0,0.0,PAYROLL-JAN
+2025-01-16,WeWork Expense,613.43,0.0,7b23df26
+2025-01-20,Uber Expense,403.81,0.0,92370765
+2025-01-20,Uber Expense,324.43,0.0,38ca8a95
+2025-01-22,Slack Expense,541.76,0.0,be0f0f78
+2025-01-25,Uber Expense,116.36,0.0,a5e3e8b3
+2025-01-28,Payment to Contractor (Check #404),1500.0,0.0,CHK-404
